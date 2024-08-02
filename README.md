@@ -96,13 +96,10 @@
  VISITAS<br> <br>
   <img src="https://profile-counter.glitch.me/pantuzzo/count.svg"/>
   </p>
-
-  <!-- **************************************************************** VISITAS POR PAÍSES **************************************************************** -->
-<p align="center"><a href="https://github.com/pantuzzo"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
  
   <!-- **************************************************************** STATS **************************************************************** -->
 <div align="center">
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=pantuzzo&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF00&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Leonardo Alaff" />
+  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=pantuzzo&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF00&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Ícaro Pantuzzo" />
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantuzzo&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
