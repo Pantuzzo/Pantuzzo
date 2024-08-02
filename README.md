@@ -24,6 +24,7 @@
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       <br>Git
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
       <br>HTML5
@@ -41,7 +42,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" alt="icon" width="40" height="40" />
+        <img src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="40" height="40" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
@@ -49,7 +50,7 @@
       <br>Vue.js
     </td>
      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="icon" width="40" height="40" />
+        <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="40" height="40" />
       <br>React
     </td>
     <td align="center" width="96">
