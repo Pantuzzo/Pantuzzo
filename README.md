@@ -1,4 +1,4 @@
-<!-- **************************************************************** APRESENTAÇÃO **************************************************************** -->
+<!-- **************************************************************** APRESENTATION **************************************************************** -->
 <p align="center">
     <a href="https://github.com/Pantuzzo" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=pantuzzo&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
@@ -10,8 +10,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
-<!-- **************************************************************** TECNOLOGIAS **************************************************************** -->
-<h3 align="center"><a href="https://www.linkedin.com/in/%C3%ADcaro-pantuzzo-villela-brandao/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h3>
+<!-- **************************************************************** TECHNOLOGIES **************************************************************** -->
+<h3 align="center"><a href="https://www.linkedin.com/in/%C3%ADcaro-pantuzzo-villela-brandao/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Technologies;Technologies" alt="Typing SVG" /></a></h3>
 <p align="center">
 <p align="center">
 <div style="display: flex; align-items: flex-start; align: center">
@@ -74,7 +74,7 @@
 <br><br>
 </div>
 
-<!-- **************************************************************** CONTATO **************************************************************** -->
+<!-- **************************************************************** CONTACTS **************************************************************** -->
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/icaropantuzzo/)
@@ -84,13 +84,13 @@
 
 </div>
 
-<!-- **************************************************************** LINHA **************************************************************** -->
+<!-- **************************************************************** LINE **************************************************************** -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=---------------------------------------------------------------------------------------------------------------------------------------------------" />
 
- <!-- **************************************************************** VISITAS **************************************************************** -->
+ <!-- **************************************************************** VISITS **************************************************************** -->
 <p align="center"> 
- VISITAS<br> <br>
+ VISITS<br> <br>
   <img src="https://profile-counter.glitch.me/pantuzzo/count.svg"/>
   </p>
  
@@ -110,11 +110,11 @@
 
 <br/>
 
-<!-- **************************************************************** GRÁFICO **************************************************************** -->
+<!-- **************************************************************** GRAPHICS **************************************************************** -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pantuzzo&bg_color=0d1117&color=ffffff&line=FF00FF&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- **************************************************************** TROFÉUS **************************************************************** -->
+<!-- **************************************************************** TROPHIES **************************************************************** -->
 <p align="center">
     <a href="https://github.com/getintorj/getintorj">
         <img src="https://github-profile-trophy.vercel.app/?username=pantuzzo&column=-1&theme=radical&layout=compact"width="95%"/> 
@@ -122,9 +122,9 @@
 
 ---
 
-<!-- **************************************************************** VERSÕES DE CONTROLE **************************************************************** -->
+<!-- ******************************************************** CONTROL VERSIONS ******************************************************** -->
 
-#### VERSÕES DE CONTROLE
+#### CONTROL VERSIONS
 
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
